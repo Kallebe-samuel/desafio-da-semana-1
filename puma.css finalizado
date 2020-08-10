@@ -1,4 +1,4 @@
-# desafio-da-semana-1html, body{
+html, body{
     margin: 0px;
 }
 #fundo{
@@ -92,6 +92,11 @@ p{
 .dois{
     width: 40%;
 }
+.icone{
+    border-radius: 100px;
+}
+.icone:hover 
+{background-color: #79f78a; }
 .link{
     border: 2px;
     font-family: sans-serif;
